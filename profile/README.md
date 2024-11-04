@@ -1,5 +1,4 @@
 ## Hi there 👋
-![Image title](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NmbWhvZ2FlY3RvOWI2dXpkbjEwa2lmYWF4bGh2NXk1bmtncXR2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HRFZxXP8V1OZWjdbh0/giphy.webp)
 
 <!--
 
