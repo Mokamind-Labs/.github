@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Link de [documentação](https://github.com/Mokamind-Labs/documentacoes)
+Link para [documentação](https://github.com/Mokamind-Labs/documentacoes)
 
 <!--
 
