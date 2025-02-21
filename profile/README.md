@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Link de [documentação](https://github.com/Mokamind-Labs/documentacoes)
+
 <!--
 
 **Here are some ideas to get you started:**
